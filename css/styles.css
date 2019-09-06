@@ -1,5 +1,6 @@
 body {
   padding-top: 5rem;
+ 
 }
 .starter-template {
   padding: 3rem 1.5rem;
@@ -24,5 +25,10 @@ body {
 .paris img{
   width: 250px;
 }
+.countries li{
+  border: none;
+}
+ 
+
 
   
