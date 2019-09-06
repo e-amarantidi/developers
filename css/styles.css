@@ -6,7 +6,7 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
   font-family: 'Bree Serif', serif;
-
+  color: rgb(30,99,149);
 }
 
 .icons {
@@ -28,7 +28,15 @@ body {
 .countries li{
   border: none;
 }
- 
+
+.navbar, footer   {
+ background-color: rgb(30,99,149)!important;
+ color: #fff;
+}
+
+footer a {
+  color: white;
+}
 
 
   
