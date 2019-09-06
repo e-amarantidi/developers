@@ -4,6 +4,8 @@ body {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+  font-family: 'Bree Serif', serif;
+
 }
 
 .icons {
@@ -22,3 +24,5 @@ body {
 .paris img{
   width: 250px;
 }
+
+  
